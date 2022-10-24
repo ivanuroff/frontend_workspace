@@ -1,0 +1,16 @@
+.logo{
+    display: flex;
+    justify-content: space-between;
+    margin:0;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.logo_horizontal {
+    height:53px;
+    width: 229px;
+}
+
+.arrowBack{
+    margin-right: 100px;
+}
